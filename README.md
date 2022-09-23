@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AikawaAsami
-- 👀 I’m interested in Lua
-- 🌱 I’m currently learning C++/C#
+- **👋 Hi, I’m @AikawaAsami**
 
 <!---
 AikawaAsami/AikawaAsami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
