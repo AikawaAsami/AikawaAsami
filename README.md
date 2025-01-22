@@ -18,10 +18,10 @@
 
 ♡.｡.:* Tech Stack ₊˚⊹♡
 
-<img src="https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-FFB6C1?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-FF69B4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lua-FFB6C1?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-FF69B4?style=for-the-badge&logo=assembly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-FF69B4?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby-FFB6C1?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
