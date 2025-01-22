@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=AikawaAsami&abbreviated=true&color=ff69b4&style=for-the-badge" alt="Aikawa Asami"/>
 </a>
 
-・‥…━━━━━━━☆•❅──────✧❅✦❅✧──────❅•☆━━━━━━━…‥・
+・‥…━━━━━━━☆ ♡ ☆━━━━━━━…‥・
 
 <img src="https://github.com/AikawaAsami/AikawaAsami/assets/114198361/e1db1918-3e3c-4c25-a808-2a0cfd4506cb" alt="aikawa" width="400"/>
 
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFB6C1?style=for-the-badge&logo=ko-fi&logoColor=white&label=Support%20on%20Ko-fi&labelColor=FF69B4"/>
 </a>
 
-・‥…━━━━━━━☆•❅──────✧❅✦❅✧──────❅•☆━━━━━━━…‥・
+・‥…━━━━━━━☆ ♡ ☆━━━━━━━…‥・
 
 <p align="center">✧･ﾟ: *✧･ﾟ:* Made with love from Japan ପ(๑•ᴗ•๑)ଓ ♡ *:･ﾟ✧*:･ﾟ✧</p>
 
