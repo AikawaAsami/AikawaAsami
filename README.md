@@ -12,10 +12,6 @@
 
 <img src="https://github.com/AikawaAsami/AikawaAsami/assets/114198361/e1db1918-3e3c-4c25-a808-2a0cfd4506cb" alt="aikawa" width="400"/>
 
-♡.｡.:* Tech Stack (◕ᴗ◕✿) ₊˚⊹♡
-
-[tech stack badges remain the same]
-
 ˚✧₊⁎ Stats ⊂(・﹏・⊂) ⁎⁺˳✧༚
 
 <img src="https://github-readme-stats.vercel.app/api?username=AikawaAsami&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&border_color=ff69b4"/>
