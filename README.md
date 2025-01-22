@@ -3,7 +3,10 @@
   # 🎀 Aikawa Asami 🌸
   ### ˚₊· ͟͟͞͞➳❥ Weakest Pawn Of Torikawa Organization ♡⋆｡°✩
 
-  <img src="https://komarev.com/ghpvc/?username=AikawaAsami&abbreviated=true&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/AikawaAsami">
+    <img src="https://komarev.com/ghpvc/?username=AikawaAsami&abbreviated=true&color=ff69b4&style=for-the-badge" alt="Aikawa Asami"/>
+  </a>
+
   
   ・‥…━━━━━━━☆•❅──────✧❅✦❅✧──────❅•☆━━━━━━━…‥・
   
