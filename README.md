@@ -18,6 +18,7 @@
 
 ♡.｡.:* Tech Stack ₊˚⊹♡
 
+<img src="https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-FF69B4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lua-FFB6C1?style=for-the-badge&logo=lua&logoColor=white"/>
@@ -28,6 +29,8 @@
 <img src="https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-FFB6C1?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shell-FF69B4?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wayland-FFB6C1?style=for-the-badge&logo=wayland&logoColor=white"/>
+
 
 
 ⋆｡°✩ Projects ٩(◕‿◕｡)۶ ✩°｡⋆
