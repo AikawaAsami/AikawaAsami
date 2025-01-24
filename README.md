@@ -5,7 +5,7 @@
 ### ˚₊· ͟͟͞͞➳❥ Weakest Pawn Of Torikawa Organization ʕ•́ᴥ•̀ʔっ♡⋆｡°✩
 
 <a href="https://github.com/AikawaAsami">
-  <img src="https://komarev.com/ghpvc/?username=AikawaAsami&abbreviated=true&color=ff69b4&style=for-the-badge" alt="Aikawa Asami"/>
+  <img src="https://komarev.com/ghpvc/?username=AikawaAsami&color=ff69b4&style=for-the-badge" alt="Aikawa Asami"/>
 </a>
 
 ・‥…━━━━━━━☆ ♡ ☆━━━━━━━…‥・
