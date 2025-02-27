@@ -49,7 +49,7 @@
 
 ・‥…━━━━━━━☆ ♡ ☆━━━━━━━…‥・
 
-<p align="center">✧･ﾟ: *✧･ﾟ:* Made with love from Japan ପ(๑•ᴗ•๑)ଓ ♡ *:･ﾟ✧*:･ﾟ✧</p>
+<p align="center">✧･ﾟ: *✧･ﾟ:* From Japan ପ(๑•ᴗ•๑)ଓ ♡ *:･ﾟ✧*:･ﾟ✧</p>
 
 </div>
 
